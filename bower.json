@@ -1,0 +1,7 @@
+{
+  "name": "cyberspace-homepage",
+  "version": "0.0.0",
+  "dependencies": {
+    "polymer": "~1.0.2"
+  }
+}
